@@ -23,7 +23,7 @@ main{
 }
 footer{
     height: 30vh;
-    background-color: rgb(18, 2, 9);
+    background-color: #244432;
     display: flex;
     align-items: center;
     justify-content: end;
